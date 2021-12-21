@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.scss"],"names":[],"mappings":"AAAA,WACE,YAAa,CACd,IAGC,SAAU","file":"main.753f29c3.chunk.css","sourcesContent":[".GoodsList {\n  height: 250px;\n}\n\n.ul {\n  padding: 0;\n}\n\n"]}
